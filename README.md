@@ -24,7 +24,8 @@
 
 
 ## Links
-- **GitHub Link:** https://github.com/sankdyl/insurance_prediction_portfolio_project/
+- **GitHub Link:** https://github.com/sankdyl/insurance_prediction_calculator
 - **Tableau Link:** https://public.tableau.com/app/profile/santhosh.k1788/viz/Insuranceforecasting_17554196047220/PremiumPricingAnalysis?publish=yes
 - **Loom Video Link:** https://www.loom.com/share/183272ff7a034b71987adca3f312d5a8
 - **Technical Blog Link:** https://medium.com/@sankdyl_84845/insurance-cost-prediction-using-machine-learning-3cc96f7ef62b
+r
